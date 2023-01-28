@@ -11,5 +11,4 @@ Hello World!!!!!!
 9, Set email address
 10. Select gender
 11 Click on continue. 
-Expected result: user should get error message (enter valid first name and last name)
-Actual result: Employee created with alphanumeric character. 
+ 
